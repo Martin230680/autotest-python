@@ -1,0 +1,95 @@
+INFO     root:set_up_browser.py:11 Prepare browser
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+INFO     seleniumwire.storage:storage.py:38 Using default request storage
+INFO     seleniumwire.backend:backend.py:31 Created proxy listening on 127.0.0.1:55297
+INFO     root:set_up_browser.py:13 browser has been started
+INFO     root:test_final3.py:39 Открыие страницы оформления бонусной карты
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/bonus/
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/bonus/ 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-includes/css/dist/block-library/style.min.css?ver=5.5.7
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.7
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.1.0
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.1.0
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.7 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-includes/css/dist/block-library/style.min.css?ver=5.5.7 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.5.3
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.1.0 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/css/font-awesome.min.css?ver=5.5.7
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.5.3
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.5.3 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/css/animate.css?ver=5.5.7
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/css/slick.css?ver=5.5.7
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/css/font-awesome.min.css?ver=5.5.7 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.1.0 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C600%2C700%2C300%7COswald%3A400%2C700%2C300%7CDosis%3A400%2C300%2C500%2C600%2C700%7CLato%3A300%2C400%2C700%2C900&ver=5.5.7
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/css/slick.css?ver=5.5.7 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/css/animate.css?ver=5.5.7 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/css/ticker-style.css?ver=5.5.7
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/style.css?ver=5.5.7
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.5.3 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/css/keyboard.css?ver=5.5.7
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/css/responsive.css?ver=5.5.7
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/css/keyboard.css?ver=5.5.7 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/uploads/2021/10/1404945-e1634803362836.png
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/css/ticker-style.css?ver=5.5.7 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C600%2C700%2C300%7COswald%3A400%2C700%2C300%7CDosis%3A400%2C300%2C500%2C600%2C700%7CLato%3A300%2C400%2C700%2C900&ver=5.5.7 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/css/responsive.css?ver=5.5.7 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/uploads/2021/10/1404945-e1634803362836.png 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/style.css?ver=5.5.7 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.5.3
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.5.3 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/js/navigation.js?ver=20120206
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/js/wow.min.js?ver=1.1.2
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.5.3
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.5.3
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/js/slick.js?ver=1.5.0
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/js/navigation.js?ver=20120206 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.5.3 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/js/wow.min.js?ver=1.1.2 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.5.3 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/js/slick.js?ver=1.5.0 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/js/jquery.ticker.js?ver=1.0.0
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/js/custom.js?ver=1.0.0
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/js/skip-link-focus-fix.js?ver=20130115
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-includes/js/wp-emoji-release.min.js?ver=5.5.7
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-includes/js/wp-embed.min.js?ver=5.5.7
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/images/li.png
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/js/jquery.ticker.js?ver=1.0.0 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/js/custom.js?ver=1.0.0 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-includes/js/wp-embed.min.js?ver=5.5.7 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/images/li.png 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/js/skip-link-focus-fix.js?ver=20130115 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-includes/js/wp-emoji-release.min.js?ver=5.5.7 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/fonts/fontawesome-webfont.woff2?v=4.7.0
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.5.3
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/?wc-ajax=get_refreshed_fragments
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.5.3 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/wp-content/themes/accesspress-store/fonts/fontawesome-webfont.woff2?v=4.7.0 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://pizzeria.skillbox.cc/favicon.ico
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/favicon.ico 404 Not Found
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://pizzeria.skillbox.cc/?wc-ajax=get_refreshed_fragments 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTE5LjAuNjA0NS4xNjASGQnnAwhu9k7adRIFDbtXVmohnRTjCDAEmEYSIAmZ9xfi0bAw-RIFDeeNQA4SBQ1NqU9eIcLRKAsrgLeD?alt=proto
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTE5LjAuNjA0NS4xNjASGQnnAwhu9k7adRIFDbtXVmohnRTjCDAEmEYSIAmZ9xfi0bAw-RIFDeeNQA4SBQ1NqU9eIcLRKAsrgLeD?alt=proto 200 
+INFO     root:validation_phone.py:9 Проверка поля ТЕЛЕФОН, на значения: одна цифра, меньше на 1 диапазона, больше на один диапазона, много больше диапазона, вперемешку 11 позиций цифры/буквы, вместо 11 цифр буквы
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698678199&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698678108&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1698678108&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+INFO     root:validation_phone.py:22 Валидация прошла успешно
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1698678199&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200
